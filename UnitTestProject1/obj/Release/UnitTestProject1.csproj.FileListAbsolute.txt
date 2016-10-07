@@ -1,0 +1,5 @@
+C:\Users\ricso\documents\visual studio 2015\Projects\Aula01AspNetMVC\UnitTestProject1\bin\Release\UnitTestProject1.dll
+C:\Users\ricso\documents\visual studio 2015\Projects\Aula01AspNetMVC\UnitTestProject1\bin\Release\UnitTestProject1.pdb
+C:\Users\ricso\documents\visual studio 2015\Projects\Aula01AspNetMVC\UnitTestProject1\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ricso\documents\visual studio 2015\Projects\Aula01AspNetMVC\UnitTestProject1\obj\Release\UnitTestProject1.dll
+C:\Users\ricso\documents\visual studio 2015\Projects\Aula01AspNetMVC\UnitTestProject1\obj\Release\UnitTestProject1.pdb
